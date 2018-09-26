@@ -1,7 +1,3 @@
-/*
- * Edited from last year
- */
-
 #include "drivetrain.h"
 #include "main.h"
 
